@@ -14,7 +14,7 @@ class MainApp extends StatelessWidget {
     return MaterialApp(
       home: HomeScreen(),
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primaryColor: Colors.blue,
         scaffoldBackgroundColor: Colors.grey[100],
         appBarTheme: AppBarTheme(
           backgroundColor: Colors.grey[100],
